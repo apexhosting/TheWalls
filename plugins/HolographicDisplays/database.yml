@@ -1,0 +1,26 @@
+welcome:
+  location: world, 990.424, 40.200, -475.501
+  lines:
+  - 'ICON: ladder'
+  - '&3&lWelcome &2&l{player} &3&lto The Walls'
+  - '&5&lJoin an arena to get started!'
+arenas:
+  location: world, 969.510, 42.200, -475.570
+  lines:
+  - '&6&lPick an arena to join here'
+kits:
+  location: world, 1527.726, 47.000, -456.577
+  lines:
+  - '&5&lKit Selcetion'
+  - '&b&lPick a kit you want to use in the battle here'
+exit:
+  location: world, 1547.849, 45.200, -456.686
+  lines:
+  - '&6&lTo return to lobby use'
+  - '&a&o/walls leave'
+info:
+  location: world, 1537.469, 45.200, -466.796
+  lines:
+  - '&c&lINFO'
+  - '&5&lOnce enough players have joined this lobby'
+  - '&5&lA 60 second countdown will begin and you will be taken to the arena'

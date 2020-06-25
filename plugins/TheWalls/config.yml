@@ -1,0 +1,328 @@
+AllowedCommands: []
+arenas:
+  arena1:
+    location1:
+      X: 40.0
+      Y: 22.0
+      Z: -346.0
+      World: world
+    location2:
+      X: 188.0
+      Y: 97.0
+      Z: -490.0
+    bluespawns:
+      '0':
+        X: 42.55231312779238
+        Y: 73.0
+        Z: -384.24340313465933
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '1':
+        X: 42.54622478574043
+        Y: 73.0
+        Z: -381.66000242522085
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '2':
+        X: 42.540136443688475
+        Y: 73.0
+        Z: -379.0766017157824
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '3':
+        X: 42.53201865428587
+        Y: 73.0
+        Z: -375.6297808028786
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '4':
+        X: 42.521871417532616
+        Y: 73.0
+        Z: -371.31953567851195
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+    redspawns:
+      '0':
+        X: 43.12560442776246
+        Y: 73.0
+        Z: -463.83461351014904
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '1':
+        X: 43.03843400195999
+        Y: 73.0
+        Z: -460.183658007494
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '2':
+        X: 42.95639124826355
+        Y: 73.0
+        Z: -456.7415123765688
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '3':
+        X: 42.86922082246108
+        Y: 73.0
+        Z: -453.083803577745
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '4':
+        X: 42.817944101400805
+        Y: 73.0
+        Z: -451.23323129845505
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+    yellowspawns:
+      '0':
+        X: 185.7702468095352
+        Y: 73.0
+        Z: -370.535128850416
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '1':
+        X: 185.77887196077546
+        Y: 73.0
+        Z: -374.19780571911923
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '2':
+        X: 185.78749711201573
+        Y: 73.0
+        Z: -377.86048258782245
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '3':
+        X: 185.79561490141833
+        Y: 73.0
+        Z: -381.3073035007262
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '4':
+        X: 185.80373269082094
+        Y: 73.0
+        Z: -383.7641428970719
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+    greenspawns:
+      '0':
+        X: 185.85990396610887
+        Y: 73.0
+        Z: -450.2991443366165
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '1':
+        X: 185.85701011523216
+        Y: 73.0
+        Z: -452.6667161297669
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '2':
+        X: 185.78859445406584
+        Y: 73.0
+        Z: -455.6049376473771
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '3':
+        X: 185.72166028007527
+        Y: 73.0
+        Z: -460.04179813213307
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+      '4':
+        X: 185.7163987330267
+        Y: 73.0
+        Z: -464.3588082809825
+        World: world
+        Pitch: 0.0
+        Yaw: 0.0
+    buildlocations:
+      '0':
+        locationWorld: world
+        location1:
+          X: 183.0
+          Y: 95.0
+          Z: -349.0
+        location2:
+          X: 125.0
+          Y: 23.0
+          Z: -407.0
+      '1':
+        locationWorld: world
+        location1:
+          X: 183.0
+          Y: 95.0
+          Z: -429.0
+        location2:
+          X: 125.0
+          Y: 23.0
+          Z: -487.0
+      '2':
+        locationWorld: world
+        location1:
+          X: 103.0
+          Y: 95.0
+          Z: -429.0
+        location2:
+          X: 45.0
+          Y: 23.0
+          Z: -487.0
+      '3':
+        locationWorld: world
+        location1:
+          X: 103.0
+          Y: 95.0
+          Z: -349.0
+        location2:
+          X: 45.0
+          Y: 23.0
+          Z: -407.0
+    droplocations:
+      '0':
+        World: world
+        location1:
+          X: 184.0
+          Y: 97.0
+          Z: -409.0
+        location2:
+          X: 123.0
+          Y: 73.0
+          Z: -409.0
+      '1':
+        World: world
+        location1:
+          X: 123.0
+          Y: 97.0
+          Z: -348.0
+        location2:
+          X: 123.0
+          Y: 73.0
+          Z: -409.0
+      '2':
+        World: world
+        location1:
+          X: 105.0
+          Y: 97.0
+          Z: -348.0
+        location2:
+          X: 105.0
+          Y: 73.0
+          Z: -409.0
+      '3':
+        World: world
+        location1:
+          X: 105.0
+          Y: 97.0
+          Z: -409.0
+        location2:
+          X: 44.0
+          Y: 73.0
+          Z: -409.0
+      '4':
+        World: world
+        location1:
+          X: 105.0
+          Y: 97.0
+          Z: -427.0
+        location2:
+          X: 44.0
+          Y: 73.0
+          Z: -427.0
+      '5':
+        World: world
+        location1:
+          X: 105.0
+          Y: 97.0
+          Z: -427.0
+        location2:
+          X: 105.0
+          Y: 73.0
+          Z: -488.0
+      '6':
+        World: world
+        location1:
+          X: 123.0
+          Y: 97.0
+          Z: -427.0
+        location2:
+          X: 123.0
+          Y: 73.0
+          Z: -488.0
+      '7':
+        World: world
+        location1:
+          X: 184.0
+          Y: 97.0
+          Z: -427.0
+        location2:
+          X: 123.0
+          Y: 73.0
+          Z: -427.0
+    time: 900
+    broadcasts:
+      '1': ''
+      '2': ''
+      '3': ''
+      '4': ''
+      '5': ''
+      '6': ''
+      '7': ''
+      '8': ''
+      '9': ''
+      '10': ''
+      '300': ''
+      '20': ''
+      '180': ''
+      '120': ''
+      '600': ''
+      '60': ''
+      '30': ''
+    lobby:
+      X: 1537.5115414913353
+      Y: 43.0
+      Z: -456.4550554851222
+      World: world
+      Pitch: 0.0
+      Yaw: 0.0
+    win:
+      X: 986.5164406189772
+      Y: 38.0
+      Z: -475.4875986718213
+      World: world
+      Pitch: 0.0
+      Yaw: 0.0
+    lose:
+      X: 986.5164406189772
+      Y: 38.0
+      Z: -475.4875986718213
+      World: world
+      Pitch: 0.0
+      Yaw: 0.0
+    SignWalls:
+      '1':
+        X: 969.0
+        Y: 39.0
+        Z: -473.0
+        Rotation: 5
+        World: world
+        Arena: Arena1
+    Files: 83
+auto-update: false
